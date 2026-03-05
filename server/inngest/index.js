@@ -1,5 +1,5 @@
 import { Inngest } from "inngest";
-import {prisma} from  "../configs/db.ts"
+import {prisma} from  "../configs/db.js"
 
 
 // Create a client to send and receive events
